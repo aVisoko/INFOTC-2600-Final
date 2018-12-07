@@ -1,6 +1,6 @@
 # INFOTC-2600-Final
 
-## How to build a PC >by Austin Parrish,<br> Student - University of Missouri, Columbia
+## How to build a PC for $1200 by Austin Parrish,<br> Student - University of Missouri, Columbia
 
 ### In this tutorial I will go thorugh the parts that are necessary to build a computer...
 

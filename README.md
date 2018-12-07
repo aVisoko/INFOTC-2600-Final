@@ -8,4 +8,6 @@
 
 <h5>The tutorial can be found here ---> (https://youtu.be/-GE_6awvSk8)</h5>
 
+<h5>The final build can be found here ---> (https://youtu.be/7hKdtKRTwLI)</h5>
+
 <p>The reason I am making this tutorial is for anyone that might be in the market for building their first PC. I recently built my first PC in the spring of 2018. I utilized the pcpartpicker website. It greatly enabled me to choose the parts that I needed with ease. Especially in knowing that all of my parts were going to be compatable within the build.</p>
